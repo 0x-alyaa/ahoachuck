@@ -216,13 +216,7 @@ const alya = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18&height=100&section=footer&text=may%20your%20code%20bloom%20in%20purple&fontSize=16&fontColor=8B5A96&animation=fadeIn"/>
-</div>
-
-<div align="center">
   
-  **🌸 "tend your code like a lavender garden, let music be the purple sunshine, and dance through every debug" 🌸**
-  
-  ![Visitor Count](https://profile-counter.glitch.me/ahoachuck/count.svg)
+  **🌸 "merde, il pleut" 🌸**
   
 </div>
