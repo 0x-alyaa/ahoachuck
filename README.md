@@ -14,69 +14,69 @@
 
 ---
 
-## 🧠 À propos de moi
+## 🧠 About Me
 
-> *« Je construis des outils que j’aurais aimé trouver, et j’explore tout ce que je ne comprends pas encore. »*
+> *“I build the tools I wish I had, and explore everything I don’t yet understand.”*
 
-Je m’appelle **Alya**, développeuse passionnée par les systèmes, le code bas niveau et la conception d’outils sur mesure.
-Je cherche constamment à allier **rigueur technique**, **créativité**, et **compréhension profonde** des mécanismes internes.
+I’m **Alya**, a self-taught developer with a passion for systems, low-level programming, and building creative, technical tools from scratch.
+My work blends **technical precision**, **experimentation**, and **curiosity** about how things work under the hood.
 
-* 💻 **Développeuse logicielle** sur **Windows** & **Linux (Arch/EndeavourOS)**
-* ⚙️ Expertise : **C++20/23**, **assembleur x86-64**, **C#**, **Lua**, **JavaScript**
-* 🎮 Expérience en **reverse engineering**, **virtualisation d’instructions** et **génération dynamique de code**
-* 📜 Intérêt fort pour les **passes LLVM**, la **sérialisation binaire**, et les approches **polymorphiques**
-* ☁️ Stack actuelle : **Docker + Traefik + Express + Vue.js + MariaDB**, orchestrée via **Portainer**
-
----
-
-## 🚀 Projets notables
-
-| 🌟 Projet                    | Description                                                                                    | 🧰 Stack                     |
-| :--------------------------- | :--------------------------------------------------------------------------------------------- | :--------------------------- |
-| 🖨️ **Thermal Label Editor** | Outil de design d’étiquettes industrielles exportant en **ZPL II** et **Intermec Fingerprint** | C#, WinUI XAML, Uno Platform |
-| 🧬 **LLVM Junk/Secret Pass** | Pass LLVM injectant du junk code et chiffrant des chaînes à la volée                           | C++ / LLVM IR                |
-| 🎮 **Weaver**                | MITM XMPP pour Valorant : capture, analyse et reverse engineering réseau                       | Node.js / C++                |
-| ☁️ **Infra Stack**           | Stack complète : **Traefik + Vue + Express + MariaDB + Grafana**                               | Docker Compose / Portainer   |
-| 🔍 **Binwalker+ / Emulator** | Analyse et émulation de firmwares industriels (Intermec PM43c, etc.)                           | Python / QEMU / Binwalk      |
+* 💻 **Software developer** on **Windows** & **Linux (Arch/EndeavourOS)**
+* ⚙️ Main expertise: **C++20/23**, **x86-64 assembly**, **C#**, **Lua**, **JavaScript**
+* 🎮 Experienced in **reverse engineering**, **instruction virtualization**, and **runtime code generation**
+* 📜 Passionate about **LLVM passes**, **binary serialization**, and **controlled obfuscation**
+* ☁️ Current stack: **Docker + Traefik + Express + Vue.js + MariaDB**, orchestrated with **Portainer**
 
 ---
 
-## 🧩 Compétences techniques
+## 🚀 Featured Projects
 
-**Langages :**
-C++20/23 · C# (.NET/Uno) · Lua 5.1 · JavaScript/TypeScript · Python · Rust *(notions)*
+| 🌟 Project                   | Description                                                                       | 🧰 Stack                     |
+| :--------------------------- | :-------------------------------------------------------------------------------- | :--------------------------- |
+| 🖨️ **Thermal Label Editor** | Industrial label design tool exporting to **ZPL II** and **Intermec Fingerprint** | C#, WinUI XAML, Uno Platform |
+| 🧬 **LLVM Junk/Secret Pass** | LLVM pass injecting junk code and decrypting strings at runtime                   | C++ / LLVM IR                |
+| 🎮 **Weaver**                | XMPP MITM tool for Valorant — network interception and reverse engineering        | Node.js / C++                |
+| ☁️ **Infra Stack**           | Full Docker environment: **Traefik + Vue + Express + MariaDB + Grafana**          | Docker Compose / Portainer   |
+| 🔍 **Binwalker+ / Emulator** | Deep firmware analysis & emulation (Intermec PM43c, etc.)                         | Python / QEMU / Binwalk      |
 
-**Bas niveau :**
-Reverse engineering · ROP · Compilation LLVM · Gestion de la pile · Inline ASM
+---
 
-**Full-stack & DevOps :**
+## 🧩 Technical Skills
+
+**Languages:**
+C++20/23 · C# (.NET/Uno) · Lua 5.1 · JavaScript/TypeScript · Python · Rust *(basics)*
+
+**Low-Level:**
+Reverse Engineering · ROP · LLVM Compilation · Stack Manipulation · Inline Assembly
+
+**Full-stack & DevOps:**
 Vue.js · Express.js · Docker · Traefik · MariaDB · GitLab CI/CD · Portainer
 
-**Outils :**
+**Tools:**
 IDA · Binary Ninja · VSCode · JetBrains Rider · CMake · vcpkg · Git
 
 ---
 
-## 🎨 Design & Expérimentation
+## 🎨 Design & Experimentation
 
-Je conçois des interfaces à la fois **fonctionnelles** et **élégantes**, inspirées du **Fluent Design** et du **minimalisme moderne**.
-J’expérimente avec **Tailwind**, **Blazor**, ou **Godot** pour créer des expériences à la frontière entre outil et œuvre interactive.
+I love crafting **functional yet elegant** interfaces, inspired by **Fluent Design** and **modern minimalism**.
+I often experiment with **Tailwind**, **Blazor**, or **Godot** to build tools that feel both technical and artistic.
 
 ---
 
-## 🧪 En ce moment
+## 🧪 Currently Exploring
 
-* 💡 Développement d’un **moteur graphique OpenGL/GLSL** personnel
-* ⚗️ Recherche sur des **passes LLVM polymorphiques** et des **builds à empreinte unique**
-* 🎮 Objectif : **Atteindre Immortal** sur Valorant 🏆
-* 🪞 Exploration personnelle & **affirmation identitaire**, avec bienveillance et lucidité 💖
+* 💡 Developing a **personal OpenGL/GLSL graphics engine**
+* ⚗️ Experimenting with **polymorphic LLVM passes** and **unique build signatures**
+* 🎮 Grinding **Valorant** — aiming for **Immortal** 🏆
+* 🪞 Continuing my **personal and identity journey**, with patience and clarity 💖
 
 ---
 
 <div align="center">
 
-💌 **Discord :** @0x.alyaa
-📂 **Portfolio :** bientôt disponible ici 🌙
+💌 **Discord:** @0x.alyaa
+📂 **Portfolio:** coming soon 🌙
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:3a3b54,100:1a1b27\&height=120\&section=footer)
 
